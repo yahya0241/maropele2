@@ -68,8 +68,5 @@ public class Game {
 		}
 		return a;
 	}
-	public static void run(){
-		System.out.println("add this!");
-	}
-
+	
 }
